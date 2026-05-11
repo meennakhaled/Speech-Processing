@@ -10,7 +10,7 @@ The project is divided into three main assignments:
 
 ---
 
-# Assignment 1 — WAV File Processing
+# WAV File Processing
 
 ## Tasks
 - Read a `.wav` audio file
@@ -25,7 +25,7 @@ The project is divided into three main assignments:
 
 ---
 
-# Assignment 2 — Speech Signal Analysis
+# Speech Signal Analysis
 
 ## Tasks
 - Read two `.wav` files:
@@ -46,7 +46,7 @@ The project is divided into three main assignments:
 
 ---
 
-# Assignment 3 — Spoken Digit Recognition
+#  Spoken Digit Recognition
 
 ## Dataset
 TensorFlow Spoken Digit Dataset
